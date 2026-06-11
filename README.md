@@ -40,6 +40,7 @@ Currently working on **Alphina** and other projects that combine development, cr
 
 </br>
 </br>
+</br>
 
 > [!IMPORTANT]
 >
@@ -55,9 +56,6 @@ Currently working on **Alphina** and other projects that combine development, cr
 <table align="center">
   <tr>
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
-      </br>
-      </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cpp" /><br>
       <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
@@ -65,8 +63,6 @@ Currently working on **Alphina** and other projects that combine development, cr
     </td>
     <!---->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=EPIK4gla&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EPIK4gla&theme=dark&background=0D0D0D&ring=9E9E9E&fire=9E9E9E&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9E9E9E&sideLabels=9E9E9E&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
