@@ -63,8 +63,7 @@ Currently working on **Alphina** and other projects that combine development, cr
     </td>
     <!---->
     <td valign="top" width="55%">
-            <img src="" />
-      
+            
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EPIK4gla&theme=dark&background=0D0D0D&ring=9E9E9E&fire=9E9E9E&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9E9E9E&sideLabels=9E9E9E&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
