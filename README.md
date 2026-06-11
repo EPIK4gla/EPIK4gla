@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/EPIK4gla">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
