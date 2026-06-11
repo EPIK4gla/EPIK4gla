@@ -6,13 +6,13 @@
         title="Stars Profile" 
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=00000&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EPIK4gla" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/EPIK4gla">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
         src="https://custom-icon-badges.demolab.com/github/forks/EPIK4gla/EPIK4gla?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=000000" /> 
   </a>
-  <a href="https://github.com/Glauedson?tab=followers">
+  <a href="https://github.com/EPIK4gla?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
