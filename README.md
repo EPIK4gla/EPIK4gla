@@ -22,7 +22,7 @@
 
 </br>
 
-<img src="https://cdn.discordapp.com/attachments/1445479033008816208/1469830387839533166/attachment.gif?ex=6a2be6f8&is=6a2a9578&hm=fabce155b9ddedc14c162e5915e0bdfe9e71f4ffd4239bcda24c8a75c050f81b&" width=390 align="left">
+<img src="attachment.gif" width=390 align="left">
 <div align="center">
 
 **Who Am I?**
